@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dscanovas@outlook.es**
 
-- ⚡ I enjoy: **reading and learning, hiking, calisthenics and running**
+- ⚡ I enjoy: **reading,learning, hiking, calisthenics and running**
 
 
 
