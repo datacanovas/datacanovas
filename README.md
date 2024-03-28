@@ -9,7 +9,7 @@
 
 - ⚡ I enjoy: **reading and learning, hiking, calisthenics and running**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:dscanovas@outlook.es </h3>
 <p align="left">
 </p>
 
