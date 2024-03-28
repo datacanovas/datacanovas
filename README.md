@@ -15,7 +15,7 @@
 
 
 <p align="left">
-dscanovas@outlook.es
+dscanovas@outlook.es (dscanovas@outlook.es)
   
 </p>
 
