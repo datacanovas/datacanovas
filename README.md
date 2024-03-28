@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl</h1>
 <h3 align="center">Passionate Data Scientist., eager to relocate internationally. I have a strong desire for learning and am consistently motivated by curiosity and aiding others.</h3>
 
-- 💻 Data Scientist [in Spain at](https://www.linkedin.com/in/raúlcánovasmartínez)
+- 💻 Data Scientist in Spain at  [https://www.linkedin.com/in/raúlcánovasmartínez](https://www.linkedin.com/in/raúlcánovasmartínez)
 
 - 🛠️ I build models with: **Python SQL AWS PyCharm Scikit Statistics TensorFlow**
 
