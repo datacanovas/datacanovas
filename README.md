@@ -5,7 +5,7 @@
 
 - 🛠️ I build models with: **Python SQL AWS PyCharm Scikit Statistics TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/datacanovas](https://github.com/datacanovas)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/datacanovas)
 
 - 📫 How to reach me **dscanovas@outlook.es**
 
